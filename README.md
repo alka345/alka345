@@ -2,7 +2,7 @@
 <img src="https://www.vectorstock.com/royalty-free-vector/flat-style-thin-line-banner-design-of-coding-vector-15041277">
 <h1 align="center">Hi 👋, I'm Alka Rao</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt ="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif&tbnid=hG9Wqf67TP1hgM&vet=12ahUKEwj65573zYaDAxU_SWwGHYjzBNsQMygFegQIARBg..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=640&h=640&q=animated%20%20girl%20coding%20gif%20image&ved=2ahUKEwj65573zYaDAxU_SWwGHYjzBNsQMygFegQIARBg">
+<img align ="right" alt ="coding" width="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif&tbnid=hG9Wqf67TP1hgM&vet=12ahUKEwj65573zYaDAxU_SWwGHYjzBNsQMygFegQIARBg..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=640&h=640&q=animated%20%20girl%20coding%20gif%20image&ved=2ahUKEwj65573zYaDAxU_SWwGHYjzBNsQMygFegQIARBg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alka345&label=Profile%20views&color=0e75b6&style=flat" alt="alka345" /> </p>
 
