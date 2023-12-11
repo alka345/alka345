@@ -1,8 +1,7 @@
 <img src="https://www.vectorstock.com/royalty-free-vector/flat-style-thin-line-banner-design-of-coding-vector-15041277">
 <h1 align="center">Hi 👋, I'm Alka Rao</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt ="coding" src="https://images.app.goo.gl/BaUrUC7exsFVaeACA">
-
+![Coding...](https://images.app.goo.gl/BaUrUC7exsFVaeACA)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alka345&label=Profile%20views&color=0e75b6&style=flat" alt="alka345" /> </p>
 
 - 🌱 I’m currently learning **Reactjs**
