@@ -23,7 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alka345&show_icons=true&locale=en" alt="alka345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alka345&" alt="alka345" /></p>
-### Hi there 👋
 
 <!--
 **alka345/alka345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
